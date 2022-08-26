@@ -1,0 +1,3 @@
+# 100DaysOfSwift-Project4
+
+ <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/100DaysOfSwift?src=hash&amp;ref_src=twsrc%5Etfw">#100DaysOfSwift</a> Project 4: safe browsing app! choose a site from a white list, navigate through it, go back and forward, refresh. If you are a redirected to a URL with not a white-listed host, the redirection would be blocked:) <a href="https://t.co/N6YTr03vbK">pic.twitter.com/N6YTr03vbK</a></p>&mdash; Anna Shark (@sharkashark) <a href="https://twitter.com/sharkashark/status/1562724607630577665?ref_src=twsrc%5Etfw">August 25, 2022</a></blockquote> 
